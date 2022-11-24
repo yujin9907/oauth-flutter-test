@@ -24,7 +24,6 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var hashkey = Kakao.
     return MaterialApp(
         home: Container(
             color: Colors.white,
